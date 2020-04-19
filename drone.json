@@ -2,8 +2,35 @@
 	
 	{
 		"id": 1,
-		"name": "ORIGINAL LOW GRAPHICS MAP",
-		"url":"https://raw.githubusercontent.com/loloy123/cntrlrimgs/master/standard.png", 
-		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/NormalPVP_015_low.zip"
+		"name": "DRONE VIEW BRAWL",
+		"url":"https://cdn.discordapp.com/attachments/701441299986776085/701476037732859924/Screenshot_2020_0419_222457.png", 
+		"link": "https://cdn.discordapp.com/attachments/701441299986776085/701476485231280138/drone_view_brawl.zip"
+	}
+]
+[
+	
+	{
+		"id": 2,
+		"name": "DRONE VIEW WESTREN EXPANANSE",
+		"url":"https://cdn.discordapp.com/attachments/701441299986776085/701476038286377120/Screenshot_2020_0419_222432.png", 
+		"link": "https://cdn.discordapp.com/attachments/701441299986776085/701476576134692985/drone_view_desert.zip"
+	}
+]
+[
+	
+	{
+		"id": 3,
+		"name": "DRONE VIEW CELESTIAL PALACE",
+		"url":"https://cdn.discordapp.com/attachments/701441299986776085/701476038609207376/Screenshot_2020_0419_222417.png", 
+		"link": "https://cdn.discordapp.com/attachments/701441299986776085/701476534766141490/drone_view_celestial.zip"
+	}
+]
+[
+	
+	{
+		"id": 4,
+		"name": "DRONE VIEW IMPERIAL SANCTUARY",
+		"url":"https://cdn.discordapp.com/attachments/701441299986776085/701476038911197264/Screenshot_2020_0419_222405.png", 
+		"link": "https://cdn.discordapp.com/attachments/701441299986776085/701476625136746506/drone_view_sanctuary.zip"
 	}
 ]
