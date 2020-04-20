@@ -1,6 +1,12 @@
 
 [
 	{
+		"id": 7,
+		"name": "REALISTIC GRAPHIC MAP",
+		"url":"https://cdn.discordapp.com/attachments/701441299986776085/701751398328565770/20200420_163853.png", 
+		"link": "https://cdn.discordapp.com/attachments/701441299986776085/701751505459478609/v1.zip"
+	},
+	{
 		"id": 6,
 		"name": "SAKURA GRAPHICS MAP",
 		"url":"https://raw.githubusercontent.com/loloy123/cntrlrimgs/master/sakura.png", 
