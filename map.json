@@ -1,57 +1,52 @@
 
 [
 	{
-		"id": 9,
+		"id": 8,
 		"name": "CORONA MAP(DEFAULT MAP)",
 		"url":"https://cdn.discordapp.com/attachments/701441299986776085/701826442639704104/20200420_213537.png", 
 		"link": "https://cdn.discordapp.com/attachments/701441299986776085/701826497744470066/corona_map.zip"
 	},
 	{
-		"id": 8,
+		"id": 7,
 		"name": "NIGHT MODE MAP",
 		"url":"https://cdn.discordapp.com/attachments/701441299986776085/701826334476861480/20200420_213634.png", 
 		"link": "https://cdn.discordapp.com/attachments/701441299986776085/701826419684016278/NightModeImperialMapByBeast.7z"
 	},
 	{
-		"id": 7,
+		"id": 6,
 		"name": "REALISTIC GRAPHIC MAP",
 		"url":"https://cdn.discordapp.com/attachments/701441299986776085/701751398328565770/20200420_163853.png", 
 		"link": "https://cdn.discordapp.com/attachments/701441299986776085/701751505459478609/v1.zip"
 	},
 	{
-		"id": 6,
+		"id": 5,
 		"name": "SAKURA GRAPHICS MAP",
 		"url":"https://raw.githubusercontent.com/loloy123/cntrlrimgs/master/sakura.png", 
 		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/Sakura%20Map%20By%20Retro%20Gaming.zip"
 	},
 	{
-		"id": 5,
+		"id": 4,
 		"name": "ULTRA HD GRAPHICS MAP",
 		"url":"https://raw.githubusercontent.com/loloy123/cntrlrimgs/master/hdmap.png", 
 		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/ultra%20hd%20map%20ml.zip"
 	},
 	{
-		"id": 4,
+		"id": 3,
 		"name": "ULTRA LOW GRAPHICS DRONE MAP ",
 		"url":"https://cdn.discordapp.com/attachments/701441299986776085/701828313450283059/20200420_214426.png", 
 		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/drview.zip"
 	},
 	{
-		"id": 3,
+		"id": 2,
 		"name": "ULTRA LOW GRAPHICS STANDARD MAP ",
 		"url":"https://cdn.discordapp.com/attachments/701441299986776085/701828313450283059/20200420_214426.png", 
 		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/standard.zip"
 	},
-	{
-		"id": 2,
-		"name": "ORIGINAL HIGH GRAPHICS MAP",
-		"url":"https://raw.githubusercontent.com/loloy123/cntrlrimgs/master/standard%20HD%20.png", 
-		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/Standar%20PVP_032_add.zip"
-	},
+	
 	{
 		"id": 1,
-		"name": "ORIGINAL LOW GRAPHICS MAP",
+		"name": "RESET TO DEFAULT MAPS",
 		"url":"https://raw.githubusercontent.com/loloy123/cntrlrimgs/master/standard.png", 
-		"link": "https://github.com/loloy123/cntrlrimgs/raw/master/NormalPVP_015_low.zip"
+		"link": "https://github.com/RetroGamingml/SaiReddy/blob/master/Ml%20Scenes%20Original.zip?raw=true"
 	}
 ]
