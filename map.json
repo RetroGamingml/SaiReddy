@@ -1,6 +1,18 @@
 
 [
 	{
+		"id": 9,
+		"name": "CORONA MAP(DEFAULT MAP)",
+		"url":"https://cdn.discordapp.com/attachments/701441299986776085/701826442639704104/20200420_213537.png", 
+		"link": "https://cdn.discordapp.com/attachments/701441299986776085/701826497744470066/corona_map.zip"
+	},
+	{
+		"id": 8,
+		"name": "NIGHT MODE MAP",
+		"url":"https://cdn.discordapp.com/attachments/701441299986776085/701826334476861480/20200420_213634.png", 
+		"link": "https://cdn.discordapp.com/attachments/701441299986776085/701826419684016278/NightModeImperialMapByBeast.7z"
+	},
+	{
 		"id": 7,
 		"name": "REALISTIC GRAPHIC MAP",
 		"url":"https://cdn.discordapp.com/attachments/701441299986776085/701751398328565770/20200420_163853.png", 
