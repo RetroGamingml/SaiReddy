@@ -132,9 +132,9 @@
                 "image": ""
             },
             {
-                "name": "Bardic Whisper",
-                "url_download": "",
-                "image": ""
+                "name": "Bio Soldier",
+                "url_download": "https://github.com/tejjliit/sixth/blob/master/GrangerStarlight.zip?raw=true",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842077807378472/Screenshot_2020_0504_174138.png"
             },
             {
                 "name": "Doomsday Terminator",
@@ -169,23 +169,23 @@
             },
             {
                 "name": "Skylark",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/blob/master/FannyEpic.zip?raw=true",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842162821726248/Screenshot_2020_0504_174331.png"
             },
             {
                 "name": "Royal Calvary",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/blob/master/FannyStarlight.zip?raw=true",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842163429769226/Screenshot_2020_0504_174233.png"
             },
             {
                 "name": "LifeGaurd",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/blob/master/FannyLifeguard.zip?raw=true",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842164440727612/Screenshot_2020_0504_174259.png"
             },
             {
                 "name": "Lightborn Ranger",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/blob/master/FannyLightborn.zip?raw=true",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842165384314880/Screenshot_2020_0504_174413.png"
             }
         ]
     },
@@ -199,9 +199,9 @@
                 "image": ""
             },
             {
-                "name": "Royal Musketeer",
-                "url_download": "",
-                "image": ""
+                "name": "Lethal Lady",
+                "url_download": "https://github.com/tejjliit/sixth/blob/master/LesleyStarlight.zip?raw=true",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842261333344337/Screenshot_2020_0504_174624.png"
             },
             {
                 "name": "Genral Rosa",
@@ -210,23 +210,23 @@
             },
             {
                 "name": "Cheergunner",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/blob/master/LesleySpecialCG.zip?raw=true",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842264013504532/Screenshot_2020_0504_174717.png"
             },
             {
                 "name": "Stellaris Ghost",
-                "url_download": "",
-                "image": ""
+                "url_download": "https://github.com/tejjliit/sixth/blob/master/LesleyStellarisGhos.zip?raw=true",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842262138519652/Screenshot_2020_0504_174701.png"
             },
             {
-                "name": "Dangerous Loved",
-                "url_download": "",
-                "image": ""
+                "name": "Dangerous Love",
+                "url_download": "https://github.com/tejjliit/sixth/blob/master/LesleySpecialDL.zip?raw=true",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706842261681340446/Screenshot_2020_0504_174643.png"
             },
             {
-                "name": "Lightborn Agent",
-                "url_download": "",
-                "image": ""
+                "name": "Angelic Agent",
+                "url_download": "https://github.com/tejjliit/sixth/blob/master/LesleyAngelicAgent.zip?raw=true",
+                "image": "https://cdn.discordapp.com/attachments/702830072284840029/706844108257493022/Screenshot_2020_0504_175556.png"
             }
         ]
     },
