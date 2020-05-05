@@ -1623,41 +1623,5 @@
                 "image": ""
             }
         ]
-    },{
-	    
-        "hero_id": 93,
-        "name": "MAGIC CHESS MAPS",
-        "image": "https://cdn.discordapp.com/attachments/707134663029948458/707134690762686484/20200505_131024.png",
-        "skin": [{
-                "name": "jungle Heart",
-                "url_download": "",
-                "image": ""
-            },
-            {
-                "name": "Silver Cyclone",
-                "url_download": "",
-                "image": ""
-            },
-            {
-                "name": "Hellfire",
-                "url_download": "",
-                "image": ""
-            },
-            {
-                "name": "Nightarrow",
-                "url_download": "",
-                "image": ""
-            },
-            {
-                "name": "Sagittarius",
-                "url_download": "",
-                "image": ""
-            },
-            {
-                "name": "Astral Wanderer",
-                "url_download": "",
-                "image": ""
-            }
-        ]
     }
 ]
