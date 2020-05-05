@@ -1623,5 +1623,37 @@
                 "image": ""
             }
         ]
+    },
+
+    {
+
+        "id": 92,
+
+        "name": "CARMILLA",
+
+        "image": "https://vignette.wikia.nocookie.net/mobile-legends/images/1/1d/Carmilla.png",
+
+        "skin": [{
+
+                "name": "",
+
+                "url_download": "",
+
+                "image": ""
+
+            },
+
+            {
+
+                "name": "normal",
+
+                "url_download": "",
+
+                "image": ""
+
+            }
+
+        ]
+
     }
 ]
